@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - botocore
   - boto3
   - pytest
 
