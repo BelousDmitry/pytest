@@ -4,6 +4,5 @@ channels:
   - defaults
 dependencies:
   - pytest
-  - boto3
   - moto
 
