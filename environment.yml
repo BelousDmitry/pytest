@@ -3,6 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - moto[mock]
   - pytest
-  - moto[s3]
 
